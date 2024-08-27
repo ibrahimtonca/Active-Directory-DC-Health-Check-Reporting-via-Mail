@@ -1,1 +1,1 @@
-SMTP bilgilerini, alıcı ve gönderici bilgileri kısmını kendinize göre düzenlemeyi unutmayın. Bu kodu .ps1 (PowerShell) dosyası haline getirebilirsiniz aynı zamanda görev zamanlayıcısı ile düzenli olarak sağlık kontrolü raporu alabilirsiniz.
+SMTP bilgilerini, alıcı ve gönderici bilgileri kısmını kendinize göre düzenlemeyi unutmayın. Bu kodu görev zamanlayıcısı ile düzenli olarak sağlık kontrolü raporu alabilirsiniz.
